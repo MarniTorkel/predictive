@@ -1,3 +1,3 @@
-This is a group project of 3 people. 
+This is a group project. 
 Language used is python.
-For prediction, we used ARIMA, Neural Network, etc.
+My contribution to this project is to implement Neural Network Algorithm for the prediction.
